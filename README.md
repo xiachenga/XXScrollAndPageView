@@ -1,8 +1,8 @@
 # XXScrollAndPageView
 This is a custom view for auto page turning view. 
 
-> 这个是我自己封装的一个循环滚动视图，里面包含一个demo和封装的类。封装的特点是节省内存，并且可以通过代理来实现点击事件。
-[list]
+> 这个是我自己封装的一个循环滚动视图，里面包含一个demo和封装的类。封装的特点是节省内存，并且可以通过代理来实现点击事件.
+
 ## 使用方法：
 ####1. 基本使用：把创建好的view或其子类放在NSMutableArray 中并赋值给参数imageViewArr,这些就是你要循环滚动显示的视图。
 ####2. 设置相关属性：shouldAutoShow： 是否自动滚动显示。
